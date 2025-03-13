@@ -126,5 +126,3 @@ transacoes1.forEach((transacao) => {
 });
 
 console.log(totalTaxas2);
-
-console.log('teste git');
