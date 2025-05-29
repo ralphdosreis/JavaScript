@@ -29,7 +29,7 @@
 // const ultimaPalavra = transacao.slice(-7);
 // console.log(ultimaPalavra);
 
-// const comSubtring = transacao.substring(0, 3); // Funciona como o slie, porém não funciona com valor negativos
+// const comSubtring = transacao.substring(0, 3); // Funciona como o slice, porém não funciona com valor negativos
 // console.log(comSubtring); // Dep
 
 // console.log(transacao.indexOf('t')); // Retorna o primeiro index do valor passado
