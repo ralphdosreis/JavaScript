@@ -1,0 +1,16 @@
+button.ativo {
+  background: blue;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 4px;
+  padding: 10px 20px;
+  border: none;
+}
+
+/* body {
+  background: blue;
+}
+
+body.red {
+  background: red;
+} */
